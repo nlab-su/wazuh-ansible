@@ -1,0 +1,19 @@
+[elk_cluster]
+172.22.4.16 host_alias=sr-vcd-elk-clus-01
+172.22.4.17 host_alias=sr-vcd-elk-clus-02
+172.22.4.18 host_alias=sr-vcd-elk-clus-03
+172.22.4.21 host_alias=sr-vcd-elk-clus-04
+172.22.4.22 host_alias=sr-vcd-elk-clus-05
+172.22.4.23 host_alias=sr-vcd-elk-clus-06
+172.22.4.24 host_alias=sr-vcd-elk-clus-07
+
+[os_cluster]
+172.22.16.11
+172.22.16.21
+172.22.16.16
+172.22.16.15
+172.22.16.14
+172.22.16.17
+
+[sr-vcd-nbx-02]
+172.22.4.106
